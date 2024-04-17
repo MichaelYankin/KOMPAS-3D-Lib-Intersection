@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntersectionPointsLib", "Task1_API7\Task1_API7.vcxproj", "{5BAE2C6E-93DC-4BAD-9221-ACABBA6C7609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BAE2C6E-93DC-4BAD-9221-ACABBA6C7609}.Debug|x64.ActiveCfg = Debug|x64
+		{5BAE2C6E-93DC-4BAD-9221-ACABBA6C7609}.Debug|x64.Build.0 = Debug|x64
+		{5BAE2C6E-93DC-4BAD-9221-ACABBA6C7609}.Debug|x86.ActiveCfg = Debug|Win32
+		{5BAE2C6E-93DC-4BAD-9221-ACABBA6C7609}.Debug|x86.Build.0 = Debug|Win32
+		{5BAE2C6E-93DC-4BAD-9221-ACABBA6C7609}.Release|x64.ActiveCfg = Release|x64
+		{5BAE2C6E-93DC-4BAD-9221-ACABBA6C7609}.Release|x64.Build.0 = Release|x64
+		{5BAE2C6E-93DC-4BAD-9221-ACABBA6C7609}.Release|x86.ActiveCfg = Release|Win32
+		{5BAE2C6E-93DC-4BAD-9221-ACABBA6C7609}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C4FA630-3A15-4E8E-96C5-69E23B999699}
+	EndGlobalSection
+EndGlobal

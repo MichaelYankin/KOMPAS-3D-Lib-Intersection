@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\m_yan\OneDrive\Desktop\МЭИ\VI Семестр\VI - Практика\Task1_API7\Task1_API7\pch.h(22,10): error C1083: Cannot open include file: 'PARRAY.H': No such file or directory
+  (compiling source file 'pch.cpp')
+  
